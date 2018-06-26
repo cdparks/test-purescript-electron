@@ -1,0 +1,17 @@
+{
+  "name": "curator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.0.1",
+    "purescript-effect": "^2.0.0",
+    "purescript-console": "^4.1.0",
+    "purescript-react-basic": "^1.0.0",
+    "purescript-psci-support": "^4.0.0"
+  },
+  "devDependencies": {}
+}
